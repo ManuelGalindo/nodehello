@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Node_app", "Node_app\Node_app.njsproj", "{BC5C022F-1860-43D6-9035-3814922AFF5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5C022F-1860-43D6-9035-3814922AFF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5C022F-1860-43D6-9035-3814922AFF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5C022F-1860-43D6-9035-3814922AFF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5C022F-1860-43D6-9035-3814922AFF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {914AA1C9-3C4C-48C8-8BF4-1B9989FC8D0A}
+	EndGlobalSection
+EndGlobal
